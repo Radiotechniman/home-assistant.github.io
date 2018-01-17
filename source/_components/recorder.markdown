@@ -214,5 +214,5 @@ If you are in a virtual environment, don't forget to activate it before installi
 ```bash
 $ sudo su -s /bin/bash homeassistant
 $ source /srv/homeassistant/bin/activate
-$ pip3 install pymssql
+$ pip3 install pymysql
 ```
